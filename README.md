@@ -1,9 +1,8 @@
-# Hi, I'm 孙磊 (Erishen) 👋
+# Hi, I'm Erishen 👋
 
 ## 🚀 About Me
 20年软件开发经验，精通 JavaScript/React/Node.js 全栈技术体系
 
-- 🔭 Currently: 为 PayPal 提供技术服务
 - 🌱 Learning: Kubernetes, 微前端架构, AI 工具
 - 💬 Ask me about: React, Next.js, Node.js, 全栈开发
 - 📫 Email: leisun8309@gmail.com
@@ -39,6 +38,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erishen&show_icons=true&theme=radical)
 
 ## 📫 Contact
-- Email: leisun8309@gmail.com
+- Email: erishen@qq.com
 - Website: www.erishen.cn
 - GitHub: [@erishen](https://github.com/erishen)
