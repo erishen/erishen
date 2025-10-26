@@ -1,4 +1,4 @@
-# Hi, I'm 孙磊 👋
+# Hi, I'm Erishen Sun 👋
 
 ## 🚀 About Me
 20年软件开发经验，精通 JavaScript/React/Node.js 全栈技术体系
