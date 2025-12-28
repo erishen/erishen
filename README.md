@@ -35,16 +35,24 @@ Senior Full-Stack Engineer with 20 years of deep experience in the JavaScript ec
 ![Downloads](https://img.shields.io/npm/dm/nsgm-cli?style=flat-square)
 
 Admin System Generator - Next.js + GraphQL
-- 📦 NPM package published, actively maintained 
+- 📦 NPM package published, actively maintained
 - 🚀 One-click CRUD page generation
 - 🛠️ Supports template page creation and database synchronization
+
+### [AI Chat](https://github.com/erishen/ai-chat)
+Intelligent Chat Assistant - Next.js 15 + Vercel AI SDK
+- 🤖 AI-powered chat with OpenAI GPT integration
+- 📚 RAG document retrieval system
+- 🎨 Modern UI with Tailwind CSS 4
+- 🌐 Live demo: [chat.erishen.cn](https://chat.erishen.cn)
+- 📝 Published technical articles on SegmentFault & Juejin
 
 ### [Interview Project](https://github.com/erishen/interview)
 Modern Interview System - Next.js + Turborepo Monorepo
 - 🏗️ Monorepo architecture (web + admin dual applications)
 - 📦 Shared component library and utility packages
-- 🚀 Deployed to Vercel
 - 🛠️ Next.js 14 + TypeScript + Tailwind CSS
+- 🌐 Live demo: [web.erishen.cn](https://web.erishen.cn) | [admin.erishen.cn](https://admin.erishen.cn)
 
 ### [FastAPI Web](https://github.com/erishen/fastapi-web)
 Product Management System - FastAPI + Docker
@@ -52,6 +60,7 @@ Product Management System - FastAPI + Docker
 - 🐳 Docker containerized deployment
 - 📊 Integrated with MySQL + Redis
 - 🚀 Stable operation in production environment
+- 🌐 Live demo: [api.erishen.cn](https://api.erishen.cn/docs)
 
 ### [Personal Blog](https://erishen.cn)
 WordPress Tech Blog
