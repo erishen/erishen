@@ -35,7 +35,7 @@ Senior Full-Stack Engineer with 20 years of deep experience in the JavaScript ec
 ![Downloads](https://img.shields.io/npm/dm/nsgm-cli?style=flat-square)
 
 Admin System Generator - Next.js + GraphQL
-- 📦 NPM package published, actively maintained
+- 📦 NPM package: [nsgm-cli](https://www.npmjs.com/package/nsgm-cli), actively maintained
 - 🚀 One-click CRUD page generation
 - 🛠️ Supports template page creation and database synchronization
 
