@@ -1,3 +1,8 @@
+
+<div align="right">
+  <a href="README.zh-CN.md">🇨🇳 中文</a>
+</div>
+
 # Hi, I'm Erishen 👋
 
 ## 🚀 About Me
@@ -20,7 +25,9 @@ Senior Full-Stack Engineer with 20 years of deep experience in the JavaScript ec
 
 ### Professional Skills
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Bun](https://img.shields.io/badge/-Bun-FEF2C2?style=flat&logo=bun&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -53,6 +60,16 @@ Modern Interview System - Next.js + Turborepo Monorepo
 - 📦 Shared component library and utility packages
 - 🛠️ Next.js 14 + TypeScript + Tailwind CSS
 - 🌐 Live demo: [web.erishen.cn](https://web.erishen.cn) | [admin.erishen.cn](https://admin.erishen.cn)
+
+### [shadcn-registry](https://github.com/erishen/shadcn-registry)
+Custom Component Registry for shadcn/ui - Built with Bun
+- 🎨 Component documentation with Storybook 9
+- 📦 10+ reusable React components
+- 🚀 Bun-powered (21x faster than npm)
+- 🛠️ Next.js 14 + TypeScript + Tailwind CSS
+- 💡 "Copy and paste, not install" philosophy
+- 🌐 Live demo: [erishen.github.io/shadcn-registry](https://erishen.github.io/shadcn-registry)
+- 📝 Featured on Juejin, SegmentFault & Medium
 
 ### [FastAPI Web](https://github.com/erishen/fastapi-web)
 Product Management System - FastAPI + Docker
