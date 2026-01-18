@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Senior Full-Stack Engineer with 20 years of deep experience in the JavaScript ecosystem, specializing in large-scale projects.
 
-- 🔭 Recently: Provided technical services to PayPal, responsible for customer service operations and identity verification business systems (2024.7 - Present)
+- 🔭 Recently: Senior Engineer at PayPal (Contract · 2024.7 - Present)
 - 🌱 Learning: Kubernetes, Micro-frontend Architecture, AI Tools (GitHub Copilot, Cursor, Claude)
 - 💬 Ask me about: React, Next.js, Node.js, Full-Stack Development, Team Collaboration
 - 🔍 Status: Looking for new technical challenges and collaboration opportunities
@@ -87,12 +87,12 @@ WordPress Tech Blog
 
 ## 💼 Work Experience
 
-### PayPal (2024.7 - Present)
-**Senior Full-Stack Engineer** - Core Business System Development
-- 🏗️ Independently responsible for multiple core business modules including customer service operations and identity verification systems
-- 🚀 Led Next.js 12→14 tech stack upgrade
-- 🔧 Fixed 50+ security vulnerabilities, improved unit test coverage by 35%+
-- 👥 Led team members, reviewed code, and resolved technical challenges
+### PayPal (Contract · 2024.7 - Present)
+**Senior Full-Stack Engineer**
+- 🏗️ Independently responsible for core business systems in customer service and identity verification domains
+- 🚀 Led major framework upgrades (Next.js 12→14)
+- 🔧 Improved system security and code quality through vulnerability fixes and testing
+- 👥 Technical leadership: code reviews and team collaboration
 
 ### Trip.com (2017.4 - 2024.1)
 **Senior Frontend Engineer** - Trip.com International Site
@@ -102,11 +102,11 @@ WordPress Tech Blog
 
 ## 🏆 Key Achievements
 
-- 💼 **PayPal Core Development**: Independently responsible for multiple key business systems, completed 30+ production releases
-- 🚀 **Tech Upgrade Expert**: Led Next.js major version upgrades, fixed 200+ Jest test cases
-- 👥 **Team Collaboration**: Managed 5-7 person teams, led tech transformations, strong pressure resistance
-- 📈 **Business Results**: Ctrip Blog page GMV revenue ranked top three, ticket processing efficiency improved by 30%
-- 🔧 **Security Expert**: Fixed 50+ security vulnerabilities, passed security audits and code scans
+- 💼 **PayPal Core Development**: Independently responsible for multiple key business systems, completed production releases
+- 🚀 **Tech Upgrade Expert**: Led Next.js major version upgrades, fixed extensive test cases
+- 👥 **Team Collaboration**: Managed small teams, led tech transformations, strong pressure resistance
+- 📈 **Business Results**: Blog page GMV revenue ranked top three, improved system efficiency significantly
+- 🔧 **Security Expert**: Resolved security vulnerabilities, passed security audits and code scans
 
 ## 📫 Contact
 - 📧 Email: erishen@qq.com
