@@ -30,5 +30,5 @@ One-click CRUD page generator — Next.js + GraphQL. [nsgm-cli](https://www.npmj
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2024.07—Present | **PayPal** (Contract) | Sr. Full-Stack Engineer — AI Agent migration framework, payment validation platform, customer review system |
-| 2017.04—2024.01 | **Trip.com Group** | Sr. Frontend Engineer — Blog/Destinations, led .NET→React/Node.js transformation |
+| 2024—Present | **PayPal** (Contract) | Sr. Full-Stack Engineer — AI Agent migration framework, payment validation platform, customer review system |
+| 2017—2024 | **Trip.com Group** | Sr. Frontend Engineer — Blog/Destinations, led .NET→React/Node.js transformation |
