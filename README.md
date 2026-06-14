@@ -31,8 +31,4 @@ One-click CRUD page generator — Next.js + GraphQL. [nsgm-cli](https://www.npmj
 | Period | Company | Role |
 |--------|---------|------|
 | 2024.07—Present | **PayPal** (Contract) | Sr. Full-Stack Engineer — AI Agent migration framework, payment validation platform, customer review system |
-| 2024.01—2024.06 | **Shanghai Quant Info** | Full-Stack Engineer — Disney AI digital human customer service |
 | 2017.04—2024.01 | **Trip.com Group** | Sr. Frontend Engineer — Blog/Destinations, led .NET→React/Node.js transformation |
-| 2015—2017 | **Shanghai Jiuzhen** | Frontend Manager — React Native social app |
-| 2009—2015 | **Maiwei Microelectronics** | Sr. SW Engineer — Cordova hybrid app, embedded router |
-| 2005—2009 | **ZTE / Cedete / Goldthink** | SW Engineer — 3G network, CRM, Java/PHP |
