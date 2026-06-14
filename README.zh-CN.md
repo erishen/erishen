@@ -31,4 +31,4 @@ MCP + DeepSeek 代码分析 — Serena AST 解析、AI 质量评估、Docker 自
 | 时间 | 公司 | 职位 |
 |------|------|------|
 | 2024—至今 | **PayPal** | 高级全栈工程师 — AI Agent 迁移框架、支付验证平台、客户审核系统 |
-| 2017—2024 | **携程集团** | 资深前端工程师 — Blog/Destinations，主导 .NET→React/Node.js 转型 |
+| 2017—2024 | **携程集团** | 资深前端工程师 — Blog/Destinations 架构与性能优化 |
