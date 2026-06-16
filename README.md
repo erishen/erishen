@@ -188,13 +188,3 @@ Lightweight React SSR framework.
 * Full Stack Architecture
 
 ---
-
-# 📫 Contact
-
-Website:
-
-https://erishen.cn
-
-GitHub:
-
-https://github.com/erishen

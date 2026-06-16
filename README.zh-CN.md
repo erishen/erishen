@@ -188,13 +188,3 @@ GraphQL CRUD 生成器。
 * 全栈架构
 
 ---
-
-# 📫 联系方式
-
-网站：
-
-https://erishen.cn
-
-GitHub：
-
-https://github.com/erishen
