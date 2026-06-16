@@ -28,7 +28,7 @@ Senior Full-Stack Engineer with 20 years of experience. Currently into AI Agents
 AI Agent development methodology — multi-role Agent architecture (Architect/Developer/Reviewer), task orchestration, Prompt iterative optimization.
 
 ### [asset-lens](https://github.com/erishen/asset-lens)
-Quantitative investment platform — portfolio tracking, A-share signal scanning (80%+ win rate), AI-assisted analysis. [Demo](https://asset-lens-1.onrender.com)
+Quantitative investment platform — portfolio tracking, A-share signal scanning with backtesting, AI-assisted analysis. [Demo](https://asset-lens-1.onrender.com)
 
 - [stock-analyzer](https://github.com/erishen/stock-analyzer) — Quant signal scanner with 25+ commands (backtest, optimize, visualize). [Demo](https://stock-analyzer-demo.onrender.com)
 - [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit) — Unified LLM API layer with RAG, multi-model routing, cost tracking. [Demo](https://langchain-llm-toolkit.onrender.com/docs)

@@ -28,7 +28,7 @@
 AI Agent 开发方法论 — 多角色 Agent 架构（Architect/Developer/Reviewer）、任务编排、Prompt 迭代优化。
 
 ### [asset-lens](https://github.com/erishen/asset-lens)
-量化投资分析平台 — 投资组合跟踪、A 股全市场信号扫描（胜率 80%+）、AI 辅助分析。[Demo](https://asset-lens-1.onrender.com)
+量化投资分析平台 — 投资组合跟踪、A 股全市场信号扫描与回测、AI 辅助分析。[Demo](https://asset-lens-1.onrender.com)
 
 - [stock-analyzer](https://github.com/erishen/stock-analyzer) — 量化信号扫描工具，25+ 命令（回测、优化、可视化）。[Demo](https://stock-analyzer-demo.onrender.com)
 - [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit) — 统一 LLM API 层，支持 RAG、多模型路由、费用追踪。[Demo](https://langchain-llm-toolkit.onrender.com/docs)
