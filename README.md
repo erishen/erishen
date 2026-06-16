@@ -1,13 +1,25 @@
-
 <div align="right">
   <a href="README.zh-CN.md">🇨🇳 中文</a>
 </div>
 
 # Hi, I'm Erishen 👋
 
-Senior Full-Stack Engineer with 20 years of experience. Currently into AI Agents, payment systems, and quantitative investment.
+AI Application Engineer · Agentic Workflow Builder · Senior Full Stack Engineer
 
-🔍 **Open to opportunities** — AI Agent Engineer / AI Application Architect / Sr. Full-Stack Engineer
+20 years of software engineering experience spanning enterprise software, telecommunications, embedded systems, internet platforms, payment systems and AI applications.
+
+Currently focused on:
+
+- AI Agent & Agentic Workflow Engineering
+- AI-powered Development Automation
+- Payment Integration & Verification Platforms
+- LLM Infrastructure & Developer Tools
+
+🔍 Open to opportunities
+
+AI Application Engineer · AI Workflow Engineer · Senior Full Stack Engineer
+
+---
 
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -18,44 +30,120 @@ Senior Full-Stack Engineer with 20 years of experience. Currently into AI Agents
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![](https://img.shields.io/badge/LLM-AI%20Agent-FF6F00?logo=openai&logoColor=white)
+![](https://img.shields.io/badge/LLM-Agentic%20Workflow-FF6F00?logo=openai&logoColor=white)
 
-📍 Shanghai | 📧 erishen@qq.com | 🌐 [erishen.cn](https://erishen.cn)
+📍 Shanghai | 🌐 [erishen.cn](https://erishen.cn)
 
-## 🔥 Featured Projects
+---
+
+# 🚀 Featured Projects
+
+## Agentic Workflow & AI Engineering
 
 ### [agentic-souls](https://github.com/erishen/agentic-souls)
-AI Agent development methodology — multi-role Agent architecture (Architect/Developer/Reviewer), task orchestration, Prompt iterative optimization.
 
-### [asset-lens](https://github.com/erishen/asset-lens)
-Quantitative investment platform — portfolio tracking, A-share signal scanning with backtesting, AI-assisted analysis. [Demo](https://asset-lens-1.onrender.com)
+Multi-Agent workflow platform exploring collaborative AI engineering.
 
-- [stock-analyzer](https://github.com/erishen/stock-analyzer) — Quant signal scanner with 25+ commands (backtest, optimize, visualize). [Demo](https://stock-analyzer-demo.onrender.com)
-- [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit) — Unified LLM API layer with RAG, multi-model routing, cost tracking. [Demo](https://langchain-llm-toolkit.onrender.com/docs)
-- [investkit-utils](https://github.com/erishen/investkit-utils) — Shared data layer (market data, portfolio DB, indicators) for the InvestKit ecosystem.
-- [investkit-e2e](https://github.com/erishen/investkit-e2e) — End-to-end test suite for the InvestKit platform.
-- [lobster](https://github.com/erishen/lobster) — CLI trading assistant with real-time signals, portfolio tracking, AI-powered analysis.
-- [solo-chat](https://github.com/erishen/solo-chat) — Local-first AI chat UI with Ollama support, streaming responses, multi-model switching.
+Features:
+
+- Architect / Developer / Reviewer roles
+- Task planning and execution orchestration
+- Prompt optimization workflow
+- Engineering automation patterns
+- AI-assisted software development
+
+### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
+
+Unified LLM engineering toolkit. [Demo](https://langchain-llm-toolkit.onrender.com/docs)
+
+Features:
+
+- Multi-provider support (OpenAI / Claude / Gemini / DeepSeek)
+- RAG integration
+- Tool Calling
+- Cost tracking
+- Workflow orchestration
 
 ### [ai-analyze](https://github.com/erishen/ai-analyze)
-MCP + DeepSeek code analysis — Serena AST parsing, AI quality assessment, Docker auto-generation at ¥0.01-0.03/run.
+
+MCP-powered code analysis platform.
+
+Features:
+
+- Serena AST analysis
+- AI code review
+- Docker generation
+- Automated engineering evaluation
 
 ### [ai-chat](https://github.com/erishen/ai-chat)
-Next.js 15 AI chat with RAG document retrieval, streaming responses, and multi-turn conversations. [chat.erishen.cn](https://chat.erishen.cn) 📝 [Article](https://erishen.cn/?p=127)
 
-### [nsgm](https://github.com/erishen/nsgm)
-One-click CRUD page generator — Next.js + GraphQL. [nsgm-cli](https://www.npmjs.com/package/nsgm-cli) on npm. 📝 [Article](https://erishen.cn/?p=96)
+AI chat platform built with Next.js. [Demo](https://chat.erishen.cn) 📝 [Article](https://erishen.cn/?p=127)
 
-- [nsbp](https://github.com/erishen/nsbp) — Lightweight React 19 SSR framework with full Webpack control, code splitting, built-in image service. [nsbp-cli](https://www.npmjs.com/package/nsbp-cli) on npm. [Demo](https://nsbp.erishen.cn/) 📝 [Article](https://erishen.cn/?p=222)
+Features:
+
+- RAG document retrieval
+- Streaming response
+- Multi-turn conversations
+- Multi-model support
+
+---
+
+## Full Stack Applications
+
+### [asset-lens](https://github.com/erishen/asset-lens)
+
+AI-powered investment research platform. [Demo](https://asset-lens-1.onrender.com)
+
+Features:
+
+- Portfolio management
+- Market signal scanning with backtesting
+- Financial analytics
+- AI-assisted research workflow
+
+- [stock-analyzer](https://github.com/erishen/stock-analyzer) — Quantitative signal scanner with 25+ commands. [Demo](https://stock-analyzer-demo.onrender.com)
+- [investkit-utils](https://github.com/erishen/investkit-utils) — Shared data layer (market data, portfolio DB, indicators)
+- [investkit-e2e](https://github.com/erishen/investkit-e2e) — End-to-end test suite
+- [lobster](https://github.com/erishen/lobster) — Terminal-based investment assistant with real-time signals and AI analysis
+- [solo-chat](https://github.com/erishen/solo-chat) — Local-first AI chat UI with Ollama support
 
 ### [interview](https://github.com/erishen/interview)
-Frontend interview knowledge base — Next.js 14 Monorepo, MDX rendering, i18n, NextAuth, Supabase. [Web](https://web.erishen.cn/zh) | [Admin](https://admin.erishen.cn) 📝 [Article](https://erishen.cn/?p=180)
 
-- [fastapi-web](https://github.com/erishen/fastapi-web) — Backend API (FastAPI + Redis + Docker, auth, CRUD, caching). [API](https://api.erishen.cn/docs)
+Frontend knowledge base platform. [Web](https://web.erishen.cn/zh) | [Admin](https://admin.erishen.cn) 📝 [Article](https://erishen.cn/?p=180)
 
-## 💼 Work
+- [fastapi-web](https://github.com/erishen/fastapi-web) — Backend API (FastAPI + Redis + Docker). [API](https://api.erishen.cn/docs)
+
+---
+
+## Developer Productivity
+
+### [nsgm](https://github.com/erishen/nsgm)
+
+GraphQL CRUD generator. [nsgm-cli](https://www.npmjs.com/package/nsgm-cli) on npm. 📝 [Article](https://erishen.cn/?p=96)
+
+### [nsbp](https://github.com/erishen/nsbp)
+
+Lightweight React 19 SSR framework. [nsbp-cli](https://www.npmjs.com/package/nsbp-cli) on npm. [Demo](https://nsbp.erishen.cn/) 📝 [Article](https://erishen.cn/?p=222)
+
+---
+
+# 💼 Experience
 
 | Period | Company | Role |
-|--------|---------|------|
-| 2024—Present | **PayPal** | Sr. Full-Stack Engineer — AI Agent migration framework, payment validation platform, customer review system |
-| 2017—2024 | **Trip.com Group** | Sr. Frontend Engineer — Blog/Destinations architecture, performance optimization, React/Node.js migration |
+|----------|----------|----------|
+| 2024 - Present | PayPal | Senior Full Stack Engineer |
+| 2024 | AI Digital Human Platform | Full Stack Engineer |
+| 2017 - 2024 | Trip.com Group | Senior Frontend Engineer |
+| 2005 - 2017 | Early Career | Software Engineer → Technical Manager |
+
+---
+
+# 🎯 Areas of Interest
+
+- Agentic AI
+- AI Engineering
+- Multi-Agent Systems
+- Developer Productivity
+- Payment Technology
+- Investment Research Platforms
+- Full Stack Architecture
