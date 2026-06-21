@@ -2,29 +2,24 @@
   <a href="README.md">🇺🇸 English</a>
 </div>
 
-# 你好，我是 Erishen 👋
+# 你好，我是孙磊 (Erishen) 👋
 
-AI 应用工程师 · Agentic 工作流工程师 · 资深全栈工程师
+资深全栈工程师，专注于 AI 辅助工程化、开发者工具和真实软件系统。
 
-20 年软件工程经验，覆盖：
+目前在 PayPal，从事金融科技客户运营、身份验证、内容服务、支付迁移工具和 API 行为研究相关工作。
 
-* 企业软件
-* 通信系统
-* 嵌入式系统
-* 互联网平台
-* 金融科技与支付
-* AI 应用
+20 年软件工程经验，覆盖金融科技与支付、互联网平台、通信系统和 AI 应用。
 
-目前专注方向：
+---
 
-* Agentic 工作流工程
-* AI 辅助软件开发
-* 支付集成与验证平台
-* LLM 基础设施与开发者工具
+## 当前关注方向
+
+- AI agent 如何在修改前理解大型代码库
+- 支付迁移工作如何做到可衡量、可复现、可验证
+- 规划、执行、评估和证据如何成为 AI 辅助开发的常态
+- 开发者工具如何减少重复手工工作，同时不隐藏工程判断
 
 🔍 正在寻找新机会
-
-AI 应用工程师 · Agentic 工作流工程师 · 资深全栈工程师
 
 ---
 
@@ -53,32 +48,21 @@ AI 应用工程师 · Agentic 工作流工程师 · 资深全栈工程师
 
 多 Agent 工作流框架，用于 AI 辅助软件开发。
 
-特性：
-
-* Architect / Developer / Reviewer 多角色协作
-* 任务规划与执行工作流
-* Prompt 迭代优化
-* 评估与反馈管道
-* Agent 工程实践
+- Architect / Developer / Reviewer 多角色协作
+- 任务规划、执行、评估与证据管道
+- Agent 工程实践
 
 ---
 
 ### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
 
-统一 LLM 基础设施工具包。
+基于 LangChain 和 LiteLLM 的统一 LLM 基础设施工具包。
 
-特性：
+- OpenAI / Claude / Gemini / DeepSeek 集成
+- RAG、Tool Calling、多模型路由
+- 流式 API、评估和费用追踪
 
-* OpenAI / Claude / Gemini / DeepSeek 集成
-* RAG 支持
-* Tool Calling
-* 多模型路由
-* 费用追踪
-* 工作流编排
-
-Demo:
-
-https://langchain-llm-toolkit.onrender.com/docs
+Demo: https://langchain-llm-toolkit.onrender.com/docs
 
 ---
 
@@ -86,12 +70,16 @@ https://langchain-llm-toolkit.onrender.com/docs
 
 AI 驱动的代码分析平台。
 
-特性：
+- Serena AST 集成，MCP 双策略安全边界
+- 规则先行提示词的自动化代码审查
+- Docker 环境生成
+- 三层缓存，读时回填自动升温
 
-* Serena AST 集成
-* 自动化代码审查
-* Docker 环境生成
-* AI 辅助工程评估
+---
+
+### [langgraph-csv-analyst](https://github.com/erishen/langgraph-csv-analyst)
+
+基于 LangGraph 的 CSV 分析 agent，探索结构化数据的分解、执行和摘要生成工作流。
 
 ---
 
@@ -101,56 +89,24 @@ AI 驱动的代码分析平台。
 
 AI 驱动的投资研究平台。
 
-特性：
+- 投资组合管理与市场信号扫描
+- AI 辅助研究工作流
 
-* 投资组合管理
-* 市场信号扫描
-* 金融分析
-* AI 辅助研究工作流
+相关项目：[lobster](https://github.com/erishen/lobster) — 基于 Function Calling 架构的 AI 工具服务器
 
-相关项目：
-
-- [stock-analyzer](https://github.com/erishen/stock-analyzer) — 量化信号扫描器
-- [investkit-utils](https://github.com/erishen/investkit-utils) — 共享数据层
-- [investkit-e2e](https://github.com/erishen/investkit-e2e) — E2E 测试套件
-- [lobster](https://github.com/erishen/lobster) — 终端投资助手
-
-Demo:
-
-https://asset-lens-1.onrender.com
+Demo: https://asset-lens-1.onrender.com
 
 ---
-
-## AI 应用
 
 ### [ai-chat](https://github.com/erishen/ai-chat)
 
-Next.js AI 聊天应用。
+基于 Next.js 15 的现代 AI 聊天应用。
 
-特性：
+- Vercel AI SDK 流式响应
+- RAG 文档检索，本地向量化
+- 多轮对话管理与持久化
 
-* RAG
-* 流式响应
-* 多模型支持
-* 会话管理
-
-Demo:
-
-https://chat.erishen.cn
-
----
-
-### [interview](https://github.com/erishen/interview)
-
-前端知识平台。
-
-特性：
-
-* Next.js
-* MDX
-* i18n
-* 认证
-* 后台管理
+Demo: https://chat.erishen.cn
 
 ---
 
@@ -158,33 +114,33 @@ https://chat.erishen.cn
 
 ### [nsgm](https://github.com/erishen/nsgm)
 
-GraphQL CRUD 生成器。
+全栈脚手架和代码生成 CLI，支持 Next.js、Express、GraphQL、MySQL 和 TypeScript。
+
+NPM: https://www.npmjs.com/package/nsgm-cli
 
 ### [nsbp](https://github.com/erishen/nsbp)
 
-轻量级 React SSR 框架。
+轻量级生产级 React SSR 框架，支持 Webpack 5、Docker 部署和三种渲染模式。
 
 ---
 
 # 💼 工作经历
 
-| 时间         | 公司                       | 职位                                  |
-| ------------ | -------------------------- | ------------------------------------- |
-| 2024 - 至今  | PayPal                     | 高级全栈工程师                        |
-| 2024         | AI 数字人平台              | 全栈工程师                            |
-| 2017 - 2024  | 携程集团                   | 资深前端工程师                        |
-| 2005 - 2017  | 企业软件与通信             | 软件工程师 → 技术经理                 |
+**PayPal** — 高级全栈工程师（2024 - 至今）
+
+金融科技客户运营、身份验证、内容服务、支付迁移验证和 API 行为研究。
+
+**携程集团 (Ctrip)** — 资深前端工程师（2017 - 2024）
+
+国际内容平台、SSR/SEO 和前端转型。
+
+**企业软件与通信** — 软件工程师 → 技术经理（2005 - 2017）
+
+企业系统、移动应用、嵌入式 Web 和平台工程。
 
 ---
 
-# 🎯 兴趣方向
+# 📫 联系方式
 
-* Agentic AI
-* AI 工程
-* 多 Agent 系统
-* 开发者生产力
-* 支付技术
-* LLM 基础设施
-* 全栈架构
-
----
+- 网站: https://erishen.cn
+- 邮箱: erishen@qq.com

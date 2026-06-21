@@ -2,29 +2,24 @@
   <a href="README.zh-CN.md">🇨🇳 中文</a>
 </div>
 
-# Hi, I'm Erishen 👋
+# Hi, I'm Sun Lei (Erishen) 👋
 
-AI Application Engineer · Agentic Workflow Engineer · Senior Full Stack Engineer
+Senior Full-Stack Engineer focused on AI-assisted engineering, developer tools, and real-world software systems.
 
-20 years of software engineering experience across:
+Currently at PayPal, working on FinTech customer operation, identity verification, content service, payment migration tooling, and API behavior research.
 
-* Enterprise Software
-* Telecom Systems
-* Embedded Systems
-* Internet Platforms
-* FinTech & Payments
-* AI Applications
+20 years of software engineering experience across FinTech & Payments, Internet Platforms, Telecom Systems, and AI Applications.
 
-Currently focused on:
+---
 
-* Agentic Workflow Engineering
-* AI-assisted Software Development
-* Payment Integration & Validation Platform
-* LLM Infrastructure & Developer Tools
+## What I'm Focused On
+
+- How AI agents can understand large codebases before modifying them
+- How payment migration work can be made measurable, reproducible, and verifiable
+- How planning, execution, evaluation, and evidence can become a normal part of AI-assisted development
+- How developer tools can reduce repeated manual work without hiding engineering judgment
 
 🔍 Open to opportunities
-
-AI Application Engineer · Agentic Workflow Engineer · Senior Full Stack Engineer
 
 ---
 
@@ -53,32 +48,21 @@ AI Application Engineer · Agentic Workflow Engineer · Senior Full Stack Engine
 
 Multi-Agent workflow framework for AI-assisted software development.
 
-Features:
-
-* Architect / Developer / Reviewer collaboration
-* Task planning and execution workflow
-* Prompt optimization loop
-* Evaluation and feedback pipeline
-* Agent Engineering practices
+- Architect / Developer / Reviewer collaboration
+- Task planning, execution, evaluation, and evidence pipeline
+- Agent Engineering practices
 
 ---
 
 ### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
 
-Unified LLM infrastructure toolkit.
+Unified LLM infrastructure toolkit built with LangChain and LiteLLM.
 
-Features:
+- OpenAI / Claude / Gemini / DeepSeek integration
+- RAG, Tool Calling, multi-model routing
+- Streaming APIs, evaluation, and cost tracking
 
-* OpenAI / Claude / Gemini / DeepSeek integration
-* RAG support
-* Tool Calling
-* Multi-model routing
-* Cost tracking
-* Workflow orchestration
-
-Demo:
-
-https://langchain-llm-toolkit.onrender.com/docs
+Demo: https://langchain-llm-toolkit.onrender.com/docs
 
 ---
 
@@ -86,12 +70,16 @@ https://langchain-llm-toolkit.onrender.com/docs
 
 AI-powered code analysis platform.
 
-Features:
+- Serena AST integration with MCP dual-strategy (security boundary)
+- Automated code review with rule-first AI prompts
+- Docker environment generation
+- Three-level cache with read-backfill auto-warming
 
-* Serena AST integration
-* Automated code review
-* Docker environment generation
-* AI-assisted engineering evaluation
+---
+
+### [langgraph-csv-analyst](https://github.com/erishen/langgraph-csv-analyst)
+
+LangGraph-based CSV analysis agent exploring structured data decomposition, execution, and summarization through agent workflows.
 
 ---
 
@@ -101,56 +89,24 @@ Features:
 
 AI-powered investment research platform.
 
-Features:
+- Portfolio management and market signal scanning
+- AI-assisted research workflow
 
-* Portfolio management
-* Market signal scanning
-* Financial analytics
-* AI-assisted research workflow
+Related: [lobster](https://github.com/erishen/lobster) — AI tool server with Function Calling architecture
 
-Related projects:
-
-- [stock-analyzer](https://github.com/erishen/stock-analyzer) — Market signal scanner
-- [investkit_utils](https://github.com/erishen/investkit_utils) — Shared data layer
-- [investkit-e2e](https://github.com/erishen/investkit-e2e) — E2E test suite
-- [lobster](https://github.com/erishen/lobster) — Terminal investment assistant
-
-Demo:
-
-https://asset-lens-1.onrender.com
+Demo: https://asset-lens-1.onrender.com
 
 ---
-
-## AI Applications
 
 ### [ai-chat](https://github.com/erishen/ai-chat)
 
-Next.js AI Chat application.
+Modern Next.js 15 AI chat application.
 
-Features:
+- Vercel AI SDK with streaming responses
+- RAG document retrieval with local vectorization
+- Multi-turn conversation management and persistence
 
-* RAG
-* Streaming responses
-* Multi-model support
-* Conversation management
-
-Demo:
-
-https://chat.erishen.cn
-
----
-
-### [interview](https://github.com/erishen/interview)
-
-Frontend knowledge platform.
-
-Features:
-
-* Next.js
-* MDX
-* i18n
-* Authentication
-* Admin system
+Demo: https://chat.erishen.cn
 
 ---
 
@@ -158,33 +114,33 @@ Features:
 
 ### [nsgm](https://github.com/erishen/nsgm)
 
-GraphQL CRUD generator.
+Full-stack scaffolding and code generation CLI for Next.js, Express, GraphQL, MySQL, and TypeScript.
+
+NPM: https://www.npmjs.com/package/nsgm-cli
 
 ### [nsbp](https://github.com/erishen/nsbp)
 
-Lightweight React SSR framework.
+Lightweight production-grade React SSR framework with Webpack 5, Docker deployment, and three rendering modes.
 
 ---
 
 # 💼 Experience
 
-| Period         | Company                       | Role                                  |
-| -------------- | ----------------------------- | ------------------------------------- |
-| 2024 - Present | PayPal                        | Senior Full Stack Engineer            |
-| 2024           | AI Digital Human Platform     | Full Stack Engineer                   |
-| 2017 - 2024    | Trip.com                      | Senior Frontend Engineer              |
-| 2005 - 2017    | Enterprise Software & Telecom | Software Engineer → Technical Manager |
+**PayPal** — Senior Full Stack Engineer (2024 - Present)
+
+FinTech customer operation, identity verification, content service, payment migration validation, and API behavior research.
+
+**Trip.com (Ctrip)** — Senior Frontend Engineer (2017 - 2024)
+
+International content platforms, SSR/SEO, and frontend transformation.
+
+**Enterprise Software & Telecom** — Software Engineer → Technical Manager (2005 - 2017)
+
+Enterprise systems, mobile apps, embedded web, and platform engineering.
 
 ---
 
-# 🎯 Interests
+# 📫 Links
 
-* Agentic AI
-* AI Engineering
-* Multi-Agent Systems
-* Developer Productivity
-* Payment Technology
-* LLM Infrastructure
-* Full Stack Architecture
-
----
+- Website: https://erishen.cn
+- Email: erishen@qq.com
