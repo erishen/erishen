@@ -126,7 +126,7 @@ Lightweight production-grade React SSR framework with Webpack 5, Docker deployme
 
 # 💼 Experience
 
-**PayPal** — Senior Full Stack Engineer (2024 - Present)
+**PayPal** — Full Stack Engineer (2024 - Present)
 
 FinTech customer operation, identity verification, content service, payment migration validation, and API behavior research.
 

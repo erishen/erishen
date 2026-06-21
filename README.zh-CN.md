@@ -126,7 +126,7 @@ NPM: https://www.npmjs.com/package/nsgm-cli
 
 # 💼 工作经历
 
-**PayPal** — 高级全栈工程师（2024 - 至今）
+**PayPal** — 全栈工程师（2024 - 至今）
 
 金融科技客户运营、身份验证、内容服务、支付迁移验证和 API 行为研究。
 
