@@ -2,7 +2,7 @@
   <a href="README.zh-CN.md">🇨🇳 中文</a>
 </div>
 
-# Hi, I'm Sun Lei
+# Hi, I'm Lei Sun
 
 AI engineering / platform engineering / senior full-stack engineer focused on making AI useful in real engineering workflows.
 
