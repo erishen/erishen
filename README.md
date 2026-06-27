@@ -2,24 +2,25 @@
   <a href="README.zh-CN.md">🇨🇳 中文</a>
 </div>
 
-# Hi, I'm Sun Lei (Erishen) 👋
+# Hi, I'm Sun Lei
 
-Senior Full-Stack Engineer focused on AI-assisted engineering, developer tools, and real-world software systems.
+AI engineering / platform engineering / senior full-stack engineer focused on making AI useful in real engineering workflows.
 
-Currently at PayPal, working on FinTech customer operation, identity verification, content service, payment migration tooling, and API behavior research.
+I currently work on FinTech engineering at PayPal, with recent focus on AI-assisted payment migration validation, multi-stack e-commerce test environments, Docker / Makefile workflows, Playwright E2E validation, and evidence-driven engineering loops.
 
-20 years of software engineering experience across FinTech & Payments, Internet Platforms, Telecom Systems, and AI Applications.
+I care less about one-off AI demos and more about systems that are runnable, reproducible, testable, and explainable.
+
+🔍 Open to opportunities
 
 ---
 
-## What I'm Focused On
+## Current Focus
 
-- How AI agents can understand large codebases before modifying them
-- How payment migration work can be made measurable, reproducible, and verifiable
-- How planning, execution, evaluation, and evidence can become a normal part of AI-assisted development
-- How developer tools can reduce repeated manual work without hiding engineering judgment
-
-🔍 Open to opportunities
+- AI-assisted engineering workflows for real software systems
+- Agent workflow design with planning, execution, independent evaluation, and evidence collection
+- Multi-language payment validation environments with Docker, Makefile, and Playwright
+- Developer tools, CLI workflows, prompt systems, memory systems, and MCP-based code context
+- Full-stack systems with React, Next.js, Node.js, TypeScript, Python, FastAPI, Redis, and APIs
 
 ---
 
@@ -40,107 +41,77 @@ Currently at PayPal, working on FinTech customer operation, identity verificatio
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## Agentic Workflow & AI Engineering
+### [autogen-pse](https://github.com/erishen/autogen-pse)
+
+An AutoGen-based exploration of Planner / Specialist / Evaluator agent workflows, focusing on task decomposition, execution, independent review, and evidence-driven iteration.
 
 ### [agentic-souls](https://github.com/erishen/agentic-souls)
 
-Multi-Agent workflow framework for AI-assisted software development.
+Personal experiments around agent design, workflow orchestration, tool usage, and practical AI execution patterns.
 
-- Architect / Developer / Reviewer collaboration
-- Task planning, execution, evaluation, and evidence pipeline
-- Agent Engineering practices
+### [lobster](https://github.com/erishen/lobster)
 
----
+An OpenAI Function Calling-compatible tool registry and CLI for exposing local tools through standardized schemas and agent-friendly interfaces.
 
 ### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
 
-Unified LLM infrastructure toolkit built with LangChain and LiteLLM.
-
-- OpenAI / Claude / Gemini / DeepSeek integration
-- RAG, Tool Calling, multi-model routing
-- Streaming APIs, evaluation, and cost tracking
+A practical LLM toolkit built with LangChain and LiteLLM, supporting chat, RAG document Q&A, hybrid retrieval, streaming APIs, evaluation, and cost-aware usage patterns.
 
 Demo: https://langchain-llm-toolkit.onrender.com/docs
 
----
-
-### [ai-analyze](https://github.com/erishen/ai-analyze)
-
-AI-powered code analysis platform.
-
-- Serena AST integration with MCP dual-strategy (security boundary)
-- Automated code review with rule-first AI prompts
-- Docker environment generation
-- Three-level cache with read-backfill auto-warming
-
----
-
-### [langgraph-csv-analyst](https://github.com/erishen/langgraph-csv-analyst)
-
-LangGraph-based CSV analysis agent exploring structured data decomposition, execution, and summarization through agent workflows.
-
----
-
-## Full Stack Applications
-
-### [asset-lens](https://github.com/erishen/asset-lens)
-
-AI-powered investment research platform.
-
-- Portfolio management and market signal scanning
-- AI-assisted research workflow
-
-Related: [lobster](https://github.com/erishen/lobster) — AI tool server with Function Calling architecture
-
-Demo: https://asset-lens-1.onrender.com
-
----
-
 ### [ai-chat](https://github.com/erishen/ai-chat)
 
-Modern Next.js 15 AI chat application.
-
-- Vercel AI SDK with streaming responses
-- RAG document retrieval with local vectorization
-- Multi-turn conversation management and persistence
+A modern AI chat application with streaming responses, RAG document retrieval, Markdown rendering, theme switching, and practical conversation workflows.
 
 Demo: https://chat.erishen.cn
 
----
+### [solo-chat](https://github.com/erishen/solo-chat)
 
-## Developer Tools
+A personal AI chat application focused on clean interaction, local-first workflows, streaming responses, and lightweight AI product experience.
 
 ### [nsgm](https://github.com/erishen/nsgm)
 
-Full-stack scaffolding and code generation CLI for Next.js, Express, GraphQL, MySQL, and TypeScript.
+A full-stack scaffolding and code generation CLI for Next.js, Express, GraphQL, MySQL, TypeScript, CRUD modules, and project initialization.
 
 NPM: https://www.npmjs.com/package/nsgm-cli
 
-### [nsbp](https://github.com/erishen/nsbp)
+### [shadcn-registry](https://erishen.github.io/shadcn-registry)
 
-Lightweight production-grade React SSR framework with Webpack 5, Docker deployment, and three rendering modes.
-
----
-
-# 💼 Experience
-
-**PayPal** — Full Stack Engineer (2024 - Present)
-
-FinTech customer operation, identity verification, content service, payment migration validation, and API behavior research.
-
-**Trip.com (Ctrip)** — Senior Frontend Engineer (2017 - 2024)
-
-International content platforms, SSR/SEO, and frontend transformation.
-
-**Enterprise Software & Telecom** — Software Engineer → Technical Manager (2005 - 2017)
-
-Enterprise systems, mobile apps, embedded web, and platform engineering.
+A self-hosted shadcn/ui component registry with Storybook documentation, exploring internal component distribution and frontend platform patterns.
 
 ---
 
-# 📫 Links
+## Engineering Themes
+
+**AI Engineering**  
+Agent workflows, tool calling, MCP, RAG, evaluation loops, prompt systems, memory systems, SSE execution logs.
+
+**Platform Engineering**  
+Docker, Makefile, multi-stack environments, reproducible workflows, local tooling, developer productivity.
+
+**Full-Stack Systems**  
+React, Next.js, TypeScript, Node.js, Python, FastAPI, Redis, GraphQL, REST APIs, Playwright.
+
+**FinTech / Payment Validation**  
+Payment flow validation, API behavior research, migration rules, E2E evidence, sandbox behavior analysis.
+
+---
+
+## Background
+
+- **PayPal** — Full-Stack Engineer (2024 – Present)  
+  FinTech systems, payment migration validation, multi-stack test environments, AI-assisted engineering workflows, identity verification
+- **Trip.com (Ctrip)** — Senior Frontend Engineer (2017 – 2024)  
+  International content platforms, Node.js SSR, SEO, multilingual content, frontend engineering evolution
+- **Earlier** — Software Engineer → Technical Manager (2005 – 2017)  
+  Enterprise systems, mobile apps, embedded web, cross-team delivery
+
+---
+
+## Links
 
 - Website: https://erishen.cn
+- GitHub: https://github.com/erishen
 - Email: erishen@qq.com
