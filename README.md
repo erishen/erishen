@@ -6,7 +6,7 @@
 
 AI engineering / platform engineering / senior full-stack engineer focused on making AI useful in real engineering workflows.
 
-I currently work on FinTech engineering at PayPal, with recent focus on AI-assisted payment migration validation, multi-stack e-commerce test environments, Docker / Makefile workflows, Playwright E2E validation, and evidence-driven engineering loops.
+I currently work on FinTech engineering at PayPal, building customer-facing systems with React, Next.js, and Node.js. Recent focus areas include AI-assisted engineering workflows, system security hardening, and large-scale framework upgrades.
 
 I care less about one-off AI demos and more about systems that are runnable, reproducible, testable, and explainable.
 
@@ -18,7 +18,7 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 - AI-assisted engineering workflows for real software systems
 - Agent workflow design with planning, execution, independent evaluation, and evidence collection
-- Multi-language payment validation environments with Docker, Makefile, and Playwright
+- AI-assisted engineering workflows with agent orchestration, evaluation loops, and evidence-driven iteration
 - Developer tools, CLI workflows, prompt systems, memory systems, and MCP-based code context
 - Full-stack systems with React, Next.js, Node.js, TypeScript, Python, FastAPI, Redis, and APIs
 
@@ -88,15 +88,15 @@ Docker, Makefile, multi-stack environments, reproducible workflows, local toolin
 **Full-Stack Systems**  
 React, Next.js, TypeScript, Node.js, Python, FastAPI, Redis, GraphQL, REST APIs, Playwright.
 
-**FinTech / Payment Validation**  
-Payment flow validation, API behavior research, migration rules, E2E evidence, sandbox behavior analysis.
+**FinTech**  
+Customer-facing systems, identity verification, compliance workflows, secure full-stack development.
 
 ---
 
 ## Background
 
 - **PayPal** — Full-Stack Engineer (2024 – Present)  
-  FinTech systems, payment migration validation, multi-stack test environments, AI-assisted engineering workflows, identity verification
+  Customer-facing FinTech systems, identity verification, AI-assisted engineering workflows, full-stack development with React/Next.js/Node.js
 - **Trip.com (Ctrip)** — Senior Frontend Engineer (2017 – 2024)  
   International content platforms, Node.js SSR, SEO, multilingual content, frontend engineering evolution
 - **Earlier** — Software Engineer → Technical Manager (2005 – 2017)  

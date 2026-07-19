@@ -6,7 +6,7 @@
 
 AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 放进真实工程流程。
 
-目前在 PayPal 做金融科技工程，近期主要投入 AI 辅助支付迁移验证、多技术栈电商测试环境、Docker / Makefile 工作流、Playwright E2E 自动化和证据驱动的工程闭环。
+目前在 PayPal 做金融科技工程，用 React / Next.js / Node.js 构建面向客户的系统。近期关注 AI 辅助工程化、系统安全加固和大版本框架升级。
 
 我关心的是可运行、可复现、可测试、可解释的工程系统，而非一次性 AI Demo。
 
@@ -18,7 +18,7 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 放进�
 
 - AI 辅助工程工作流在真实软件系统中的应用
 - Agent Workflow 设计：规划、执行、独立评估和证据采集
-- 多语言支付验证环境（Docker / Makefile / Playwright）
+- AI 辅助工程化工作流：Agent 编排、评估循环、证据驱动迭代
 - 开发者工具、CLI 工作流、Prompt/Memory 系统和 MCP 代码上下文
 - 全栈系统：React、Next.js、Node.js、TypeScript、Python、FastAPI、Redis
 
@@ -88,15 +88,15 @@ Docker、Makefile、多技术栈环境、可复现工作流、本地工具、开
 **全栈系统**  
 React、Next.js、TypeScript、Node.js、Python、FastAPI、Redis、GraphQL、REST API、Playwright
 
-**金融科技 / 支付验证**  
-支付流程验证、API 行为研究、迁移规则、E2E 证据、Sandbox 行为分析
+**金融科技**  
+面向客户的系统、身份验证、合规工作流、安全全栈开发
 
 ---
 
 ## 工作经历
 
 - **PayPal** — 全栈工程师（2024 – 至今）  
-  金融科技系统、支付迁移验证、多技术栈测试环境、AI 辅助工程化、身份验证
+  面向客户的金融科技系统、身份验证、AI 辅助工程化、React/Next.js/Node.js 全栈开发
 - **Trip.com（携程）** — 资深前端工程师（2017 – 2024）  
   国际内容平台、Node.js SSR、SEO、多语言内容、前端工程演进
 - **早期经历** — 软件工程师 → 技术经理（2005 – 2017）  
