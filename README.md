@@ -45,19 +45,19 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 ### [autogen-pse](https://github.com/erishen/autogen-pse)
 
-An AutoGen-based exploration of Planner / Specialist / Evaluator agent workflows, focusing on task decomposition, execution, independent review, and evidence-driven iteration.
+Multi-agent workflow system built on AutoGen: Planner decomposes tasks, Specialists execute, Evaluator reviews — with evidence-driven iteration and independent quality gates. Demonstrates practical agent orchestration for real engineering workflows.
 
-### [agentic-souls](https://github.com/erishen/agentic-souls)
+### [llamaindex-pse](https://github.com/erishen/llamaindex-pse)
 
-Personal experiments around agent design, workflow orchestration, tool usage, and practical AI execution patterns.
+The same Planner / Specialist / Evaluator multi-agent pattern reimplemented with LlamaIndex. A side-by-side comparison of two agent frameworks solving the same problem — practical insight into framework trade-offs.
 
-### [lobster](https://github.com/erishen/lobster)
+### [rag-platform](https://github.com/erishen/rag-platform)
 
-An OpenAI Function Calling-compatible tool registry and CLI for exposing local tools through standardized schemas and agent-friendly interfaces.
+A minimal RAG learning project written from scratch (no LangChain, no LlamaIndex). Features: AhoCorasick lexicon gate for sensitive word blocking / direct QA / synonym expansion, hybrid search (pgvector + BM25), Ollama embedding, and OpenAI-compatible LLM generation. Runnable, testable, and documented.
 
 ### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
 
-A practical LLM toolkit built with LangChain and LiteLLM, supporting chat, RAG document Q&A, hybrid retrieval, streaming APIs, evaluation, and cost-aware usage patterns.
+A practical LLM toolkit with LangChain + LiteLLM, supporting chat, RAG document Q&A, hybrid retrieval, streaming APIs, evaluation, and cost-aware usage patterns.
 
 Demo: https://langchain-llm-toolkit.onrender.com/docs
 
@@ -67,19 +67,13 @@ A modern AI chat application with streaming responses, RAG document retrieval, M
 
 Demo: https://chat.erishen.cn
 
-### [solo-chat](https://github.com/erishen/solo-chat)
+### [lobster](https://github.com/erishen/lobster)
 
-A personal AI chat application focused on clean interaction, local-first workflows, streaming responses, and lightweight AI product experience.
+An OpenAI Function Calling-compatible tool registry and CLI for exposing local tools through standardized schemas and agent-friendly interfaces.
 
-### [nsgm](https://github.com/erishen/nsgm)
+### [agentic-souls](https://github.com/erishen/agentic-souls)
 
-A full-stack scaffolding and code generation CLI for Next.js, Express, GraphQL, MySQL, TypeScript, CRUD modules, and project initialization.
-
-NPM: https://www.npmjs.com/package/nsgm-cli
-
-### [shadcn-registry](https://erishen.github.io/shadcn-registry)
-
-A self-hosted shadcn/ui component registry with Storybook documentation, exploring internal component distribution and frontend platform patterns.
+Personal experiments around agent design, workflow orchestration, tool usage, and practical AI execution patterns.
 
 ---
 

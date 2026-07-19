@@ -45,19 +45,19 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 放进�
 
 ### [autogen-pse](https://github.com/erishen/autogen-pse)
 
-基于 AutoGen 的 Planner / Specialist / Evaluator Agent Workflow 探索，关注任务分解、执行、独立评估和证据驱动迭代。
+基于 AutoGen 的多 Agent 工作流系统：Planner 分解任务、Specialist 执行、Evaluator 独立评估——证据驱动迭代与质量门禁。展示适用于真实工程流程的 Agent 编排实践。
 
-### [agentic-souls](https://github.com/erishen/agentic-souls)
+### [llamaindex-pse](https://github.com/erishen/llamaindex-pse)
 
-围绕 Agent 设计、工作流编排、工具使用和实际 AI 执行模式展开的个人实验。
+用 LlamaIndex 重新实现相同的 Planner / Specialist / Evaluator 多 Agent 模式。两个框架解决同一问题，提供框架选型的实战对比。
 
-### [lobster](https://github.com/erishen/lobster)
+### [rag-platform](https://github.com/erishen/rag-platform)
 
-OpenAI Function Calling 兼容的工具注册表和 CLI，通过标准化 schema 向 Agent 暴露本地工具。
+从零手写的极简 RAG 学习项目（无 LangChain/LlamaIndex）。特性：AhoCorasick 词库闸门（敏感词拦截/直答/同义扩展）、混合检索（pgvector + BM25）、Ollama 嵌入、OpenAI 兼容 LLM 生成。可运行、可测试、有文档。
 
 ### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
 
-基于 LangChain 和 LiteLLM 的实用 LLM 工具包，支持聊天、RAG 文档问答、混合检索、流式 API、评估和成本感知使用。
+基于 LangChain + LiteLLM 的实用 LLM 工具包，支持聊天、RAG 文档问答、混合检索、流式 API、评估和成本感知使用。
 
 Demo: https://langchain-llm-toolkit.onrender.com/docs
 
@@ -67,19 +67,13 @@ Demo: https://langchain-llm-toolkit.onrender.com/docs
 
 Demo: https://chat.erishen.cn
 
-### [solo-chat](https://github.com/erishen/solo-chat)
+### [lobster](https://github.com/erishen/lobster)
 
-个人 AI 聊天应用，关注简洁交互、本地优先工作流、流式响应和轻量级 AI 产品体验。
+OpenAI Function Calling 兼容的工具注册表和 CLI，通过标准化 schema 向 Agent 暴露本地工具。
 
-### [nsgm](https://github.com/erishen/nsgm)
+### [agentic-souls](https://github.com/erishen/agentic-souls)
 
-面向 Next.js、Express、GraphQL、MySQL、TypeScript 的全栈脚手架和代码生成 CLI，支持 CRUD 模块和项目初始化工作流。
-
-NPM: https://www.npmjs.com/package/nsgm-cli
-
-### [shadcn-registry](https://erishen.github.io/shadcn-registry)
-
-自托管 shadcn/ui 组件注册表，集成 Storybook 文档，探索内部组件分发和前端平台化模式。
+围绕 Agent 设计、工作流编排、工具使用和实际 AI 执行模式展开的个人实验。
 
 ---
 
