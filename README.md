@@ -37,7 +37,7 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 📍 Shanghai, China
 
-🌐 https://erishen.cn
+🌐 Blog: https://erishen.cn
 
 ---
 
@@ -74,6 +74,19 @@ An OpenAI Function Calling-compatible tool registry and CLI for exposing local t
 ### [agentic-souls](https://github.com/erishen/agentic-souls)
 
 Personal experiments around agent design, workflow orchestration, tool usage, and practical AI execution patterns.
+
+---
+
+## Writing
+
+I write about AI engineering, agent frameworks, and full-stack practice on my blog: **[erishen.cn](https://erishen.cn)**.
+
+- [Autogen PSE: A Triangle-Agent Framework](https://erishen.cn/autogen-pse-triangle-agent-framework-en/) — Planner / Specialist / Evaluator orchestration with evidence-driven iteration.
+- [LlamaIndex PSE: RAG Workflow](https://erishen.cn/llamaindex-pse-rag-workflow-en/) — Reimplementing the same multi-agent pattern with LlamaIndex.
+- [CrewAI PSE: Programmatic Verification](https://erishen.cn/crewai-pse-programmatic-verification-en/) — Quality gates and deterministic checks in agent pipelines.
+- [LangGraph PSE: Design Decisions](https://erishen.cn/langgraph-pse-design-decisions-en/) — Graph-based agent orchestration trade-offs.
+- [Spring RBAC: Zero-Dependency Microservice Auth](https://erishen.cn/spring_rbac-en/) — JWT auth with Spring Cloud.
+- [Firefly: An R3F 3D Digital Human](https://erishen.cn/firefly-en/) — Real-time 3D avatar with React Three Fiber.
 
 ---
 

@@ -37,7 +37,7 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 放进�
 
 📍 上海
 
-🌐 https://erishen.cn
+🌐 技术博客: https://erishen.cn
 
 ---
 
@@ -74,6 +74,19 @@ OpenAI Function Calling 兼容的工具注册表和 CLI，通过标准化 schema
 ### [agentic-souls](https://github.com/erishen/agentic-souls)
 
 围绕 Agent 设计、工作流编排、工具使用和实际 AI 执行模式展开的个人实验。
+
+---
+
+## 技术博客
+
+我在博客 **[erishen.cn](https://erishen.cn)** 上写 AI 工程化、Agent 框架与全栈实践。
+
+- [Autogen PSE：三角色 Agent 框架](https://erishen.cn/autogen-pse-triangle-agent-framework/) — Planner / Specialist / Evaluator 编排与证据驱动迭代。
+- [LlamaIndex PSE：RAG 工作流](https://erishen.cn/llamaindex-pse-rag-workflow/) — 用 LlamaIndex 重实现同一套多 Agent 模式。
+- [CrewAI PSE：程序化校验](https://erishen.cn/crewai-pse-programmatic-verification/) — Agent 流水线中的质量门禁与确定性校验。
+- [LangGraph PSE：设计决策](https://erishen.cn/langgraph-pse-design-decisions/) — 基于图的 Agent 编排权衡。
+- [Spring RBAC：零依赖微服务鉴权](https://erishen.cn/spring_rbac/) — 基于 Spring Cloud 的 JWT 鉴权。
+- [Firefly：R3F 3D 数字人](https://erishen.cn/firefly/) — 基于 React Three Fiber 的实时 3D 形象。
 
 ---
 
