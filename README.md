@@ -4,7 +4,7 @@
 
 # Hi, I'm Lei Sun
 
-AI engineering / platform engineering / senior full-stack engineer focused on making AI useful in real engineering workflows.
+AI engineering / platform engineering / senior full-stack engineer focused on landing AI in real engineering workflows.
 
 I currently work on FinTech engineering at PayPal, building customer-facing systems with React, Next.js, and Node.js. Recent focus areas include AI-assisted engineering workflows, system security hardening, and large-scale framework upgrades.
 
@@ -16,20 +16,22 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 ## Current Focus
 
-- AI-assisted engineering workflows for real software systems
-- Agent workflow design with planning, execution, independent evaluation, and evidence collection
-- AI-assisted engineering workflows with agent orchestration, evaluation loops, and evidence-driven iteration
-- Developer tools, CLI workflows, prompt systems, memory systems, and MCP-based code context
+- Landing AI in real software systems (AI-assisted engineering workflows)
+- Agent workflow design: planning / execution / independent evaluation / evidence-driven iteration
+- Quality & security engineering: reproducible workflows, deterministic checks, and security hardening
+- Developer tooling: CLI workflows, prompt / memory systems, and MCP-based code context
 - Full-stack systems with React, Next.js, Node.js, TypeScript, Python, FastAPI, Redis, and APIs
 
 ---
 
 ![](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?logo=spring\&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright\&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
@@ -43,23 +45,21 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 ## Featured Projects
 
+### [rag-task-service](https://github.com/erishen/rag-task-service)
+
+An async RAG document pipeline in Rust / axum: upload, chunking, embedding, vector write and hybrid retrieval (BM25 + vector) in one service; a seven-layer architecture decouples storage (SQLite exact dedup + perceptual hash) through retrieval, LLM re-ranking to generation. Local-first and privacy-oriented, built on classic algorithms + heuristics rather than heavy ML dependencies.
+
+### [datapulse](https://github.com/erishen/datapulse)
+
+An AI BI workbench: connect SQLite / CSV / PostgreSQL / MySQL, ask in natural language, LLM writes read-only SQL and renders ECharts dashboards. A deterministic Text2SQL pipeline (schema constraints + read-only execution + result validation) runs in parallel with a ReAct dual-path (tool calls + reflection/retry), balancing control and exploration; pre-execution permission / scope checks for self-service BI.
+
 ### [autogen-pse](https://github.com/erishen/autogen-pse)
 
 Multi-agent workflow system built on AutoGen: Planner decomposes tasks, Specialists execute, Evaluator reviews — with evidence-driven iteration and independent quality gates. Demonstrates practical agent orchestration for real engineering workflows.
 
-### [llamaindex-pse](https://github.com/erishen/llamaindex-pse)
+### [spring-rbac](https://github.com/erishen/spring-rbac)
 
-The same Planner / Specialist / Evaluator multi-agent pattern reimplemented with LlamaIndex. A side-by-side comparison of two agent frameworks solving the same problem — practical insight into framework trade-offs.
-
-### [rag-platform](https://github.com/erishen/rag-platform)
-
-A minimal RAG learning project written from scratch (no LangChain, no LlamaIndex). Features: AhoCorasick lexicon gate for sensitive word blocking / direct QA / synonym expansion, hybrid search (pgvector + BM25), Ollama embedding, and OpenAI-compatible LLM generation. Runnable, testable, and documented.
-
-### [langchain-llm-toolkit](https://github.com/erishen/langchain-llm-toolkit)
-
-A practical LLM toolkit with LangChain + LiteLLM, supporting chat, RAG document Q&A, hybrid retrieval, streaming APIs, evaluation, and cost-aware usage patterns.
-
-Demo: https://langchain-llm-toolkit.onrender.com/docs
+Evolved from a single RBAC auth module into a small microservice system: Eureka discovery + Config + Gateway (PEP + hand-rolled zero-dependency JWT) + auth / rbac services, extended with CRM, audit and a BFF layer into a reusable enterprise backend skeleton.
 
 ### [ai-chat](https://github.com/erishen/ai-chat)
 
@@ -67,26 +67,16 @@ A modern AI chat application with streaming responses, RAG document retrieval, M
 
 Demo: https://chat.erishen.cn
 
-### [lobster](https://github.com/erishen/lobster)
-
-An OpenAI Function Calling-compatible tool registry and CLI for exposing local tools through standardized schemas and agent-friendly interfaces.
-
-### [agentic-souls](https://github.com/erishen/agentic-souls)
-
-Personal experiments around agent design, workflow orchestration, tool usage, and practical AI execution patterns.
-
 ---
 
 ## Writing
 
 I write about AI engineering, agent frameworks, and full-stack practice on my blog: **[erishen.cn](https://erishen.cn)**.
 
-- [Autogen PSE: A Triangle-Agent Framework](https://erishen.cn/autogen-pse-triangle-agent-framework-en/) — Planner / Specialist / Evaluator orchestration with evidence-driven iteration.
-- [LlamaIndex PSE: RAG Workflow](https://erishen.cn/llamaindex-pse-rag-workflow-en/) — Reimplementing the same multi-agent pattern with LlamaIndex.
-- [CrewAI PSE: Programmatic Verification](https://erishen.cn/crewai-pse-programmatic-verification-en/) — Quality gates and deterministic checks in agent pipelines.
-- [LangGraph PSE: Design Decisions](https://erishen.cn/langgraph-pse-design-decisions-en/) — Graph-based agent orchestration trade-offs.
-- [Spring RBAC: Zero-Dependency Microservice Auth](https://erishen.cn/spring_rbac-en/) — JWT auth with Spring Cloud.
-- [Firefly: An R3F 3D Digital Human](https://erishen.cn/firefly-en/) — Real-time 3D avatar with React Three Fiber.
+- [rag-task-service: A Seven-Layer Design for a Rust RAG Service](https://erishen.cn/rag_task_service-en/) — An async RAG document pipeline from SQLite to LLM re-ranking.
+- [datapulse: Deterministic Text2SQL Pipeline + ReAct Dual-Path](https://erishen.cn/datapulse-en/) — Architecture breakdown of the AI BI workbench.
+- [AutoGen PSE: Planner/Specialist/Evaluator Multi-Agent Collaboration](https://erishen.cn/autogen-pse-architecture-en/) — Architecture write-up of three-role collaboration with evidence-driven iteration.
+- [spring-rbac: From RBAC Auth to a Small Microservice System](https://erishen.cn/spring_rbac-en/) — Spring Cloud + zero-dependency JWT + CRM + audit + BFF.
 
 ---
 
@@ -108,9 +98,9 @@ Customer-facing systems, identity verification, compliance workflows, secure ful
 
 ## Background
 
-- **PayPal** — Full-Stack Engineer (2024 – Present)  
+- **PayPal** — Senior Full-Stack Engineer (2024 – Present)  
   Customer-facing FinTech systems, identity verification, AI-assisted engineering workflows, full-stack development with React/Next.js/Node.js
-- **Trip.com (Ctrip)** — Senior Frontend Engineer (2017 – 2024)  
+- **Trip.com Group** — Senior Frontend Engineer (2017 – 2024)  
   International content platforms, Node.js SSR, SEO, multilingual content, frontend engineering evolution
 - **Earlier** — Software Engineer → Technical Manager (2005 – 2017)  
   Enterprise systems, mobile apps, embedded web, cross-team delivery
