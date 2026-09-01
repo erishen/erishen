@@ -45,6 +45,10 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地�
 
 ## 精选项目
 
+### [resolve-studio](https://github.com/erishen/resolve-studio)
+
+基于 Cordis 依赖注入容器的完整版 AI Agent 运行时与工程化工作台——LLM 后端/工具/Agent 循环/审批/技能/前端全为插件，切换模型或加工具仅改配置。内置 PSE（Planner/Specialist/Evaluator）三角色验证闭环与 harness 编排能力，整合 Makefile 脚本、MCP 工具与 OS 级沙箱（macOS Seatbelt / Linux bwrap）。resolve-* 工具链成员：resolve-harness（Python/LangGraph 骨架，独创 Fast-path Plugin Runtime——确定性问题零模型调用）、resolve-tui（Rust CLI/TUI 编码 Agent）、resolve-skills（Agent Skills 开放标准，可被 Claude Code / Codex 多端消费）。
+
 ### [rag-task-service](https://github.com/erishen/rag-task-service)
 
 基于 Rust / axum 的异步 RAG 文档管线：上传、分块、Embedding、向量写入与混合检索（BM25 + 向量）一体化；七层架构从存储（SQLite 精确去重 + 感知哈希）到检索、LLM 重排、生成逐层解耦。本地优先、隐私导向，纯经典算法 + 启发式而非重型 ML 依赖。
@@ -52,10 +56,6 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地�
 ### [datapulse](https://github.com/erishen/datapulse)
 
 AI BI 工作台：连接 SQLite / CSV / PostgreSQL / MySQL，自然语言提问，LLM 写只读 SQL 并渲染 ECharts 看板。确定性 Text2SQL 管线（schema 约束 + 只读执行 + 结果校验）与 ReAct 双路径（工具调用 + 反思重试）并行，兼顾可控性与探索；SQL 执行前做权限 / 作用域校验，面向自助 BI。
-
-### [autogen-pse](https://github.com/erishen/autogen-pse)
-
-基于 AutoGen 的多 Agent 工作流系统：Planner 分解任务、Specialist 执行、Evaluator 独立评估——证据驱动迭代与质量门禁。展示适用于真实工程流程的 Agent 编排实践。
 
 ### [spring-rbac](https://github.com/erishen/spring-rbac)
 
@@ -73,9 +73,9 @@ Demo: https://chat.erishen.cn
 
 我在博客 **[erishen.cn](https://erishen.cn)** 上写 AI 工程化、Agent 框架与全栈实践。
 
+- [resolve-studio：Cordis 插件化 Agent 运行时](https://erishen.cn/resolve_studio/) — 用 DI 容器把 LLM 后端、工具、审批流全部变成配置。
 - [rag-task-service：一个 Rust RAG 服务的七层设计](https://erishen.cn/rag_task_service/) — 从 SQLite 到 LLM 重排的异步 RAG 文档管线架构。
 - [datapulse：Text2SQL 确定性管线 + ReAct 双路径](https://erishen.cn/datapulse/) — AI BI 工作台的架构解析。
-- [AutoGen PSE：Planner/Specialist/Evaluator 多智能体协作](https://erishen.cn/autogen-pse-architecture/) — 三角色协作与证据驱动迭代的架构解析。
 - [spring-rbac：从 RBAC 鉴权长成的小微服务系统](https://erishen.cn/spring_rbac/) — Spring Cloud + 零依赖 JWT + CRM + 审计 + BFF。
 
 ---

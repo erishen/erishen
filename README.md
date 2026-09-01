@@ -45,6 +45,10 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 
 ## Featured Projects
 
+### [resolve-studio](https://github.com/erishen/resolve-studio)
+
+A full AI Agent runtime and engineering workbench on the Cordis DI container — LLM backend / tools / Agent loop / approvals / skills / frontend are all plugins; switching models or adding tools is config-only. Built-in PSE (Planner/Specialist/Evaluator) three-role verification loop and harness orchestration, integrating Makefile scripts, MCP tools and OS-level sandbox (macOS Seatbelt / Linux bwrap). Part of the resolve-* toolchain: resolve-harness (Python/LangGraph skeleton with Fast-path Plugin Runtime — zero model calls for deterministic problems), resolve-tui (Rust CLI/TUI coding Agent), resolve-skills (Agent Skills open standard, consumable by Claude Code / Codex).
+
 ### [rag-task-service](https://github.com/erishen/rag-task-service)
 
 An async RAG document pipeline in Rust / axum: upload, chunking, embedding, vector write and hybrid retrieval (BM25 + vector) in one service; a seven-layer architecture decouples storage (SQLite exact dedup + perceptual hash) through retrieval, LLM re-ranking to generation. Local-first and privacy-oriented, built on classic algorithms + heuristics rather than heavy ML dependencies.
@@ -52,10 +56,6 @@ An async RAG document pipeline in Rust / axum: upload, chunking, embedding, vect
 ### [datapulse](https://github.com/erishen/datapulse)
 
 An AI BI workbench: connect SQLite / CSV / PostgreSQL / MySQL, ask in natural language, LLM writes read-only SQL and renders ECharts dashboards. A deterministic Text2SQL pipeline (schema constraints + read-only execution + result validation) runs in parallel with a ReAct dual-path (tool calls + reflection/retry), balancing control and exploration; pre-execution permission / scope checks for self-service BI.
-
-### [autogen-pse](https://github.com/erishen/autogen-pse)
-
-Multi-agent workflow system built on AutoGen: Planner decomposes tasks, Specialists execute, Evaluator reviews — with evidence-driven iteration and independent quality gates. Demonstrates practical agent orchestration for real engineering workflows.
 
 ### [spring-rbac](https://github.com/erishen/spring-rbac)
 
@@ -73,9 +73,9 @@ Demo: https://chat.erishen.cn
 
 I write about AI engineering, agent frameworks, and full-stack practice on my blog: **[erishen.cn](https://erishen.cn)**.
 
+- [resolve-studio: Cordis Plugin-Based Agent Runtime](https://erishen.cn/resolve_studio-en/) — Turning LLM backend, tools, and approval flows into config via DI container.
 - [rag-task-service: A Seven-Layer Design for a Rust RAG Service](https://erishen.cn/rag_task_service-en/) — An async RAG document pipeline from SQLite to LLM re-ranking.
 - [datapulse: Deterministic Text2SQL Pipeline + ReAct Dual-Path](https://erishen.cn/datapulse-en/) — Architecture breakdown of the AI BI workbench.
-- [AutoGen PSE: Planner/Specialist/Evaluator Multi-Agent Collaboration](https://erishen.cn/autogen-pse-architecture-en/) — Architecture write-up of three-role collaboration with evidence-driven iteration.
 - [spring-rbac: From RBAC Auth to a Small Microservice System](https://erishen.cn/spring_rbac-en/) — Spring Cloud + zero-dependency JWT + CRM + audit + BFF.
 
 ---
