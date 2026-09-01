@@ -2,7 +2,7 @@
   <a href="README.md">🇺🇸 English</a>
 </div>
 
-# 你好，我是孙磊
+# 你好，我是 Erishen Sun
 
 AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地到真实工程流程。
 

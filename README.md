@@ -2,7 +2,7 @@
   <a href="README.zh-CN.md">🇨🇳 中文</a>
 </div>
 
-# Hi, I'm Lei Sun
+# Hi, I'm Erishen Sun
 
 AI engineering / platform engineering / senior full-stack engineer focused on landing AI in real engineering workflows.
 
