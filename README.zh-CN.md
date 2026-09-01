@@ -24,16 +24,16 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地�
 
 ---
 
-![](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?logo=spring\&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright\&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
