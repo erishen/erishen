@@ -27,6 +27,7 @@ I care less about one-off AI demos and more about systems that are runnable, rep
 ![](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
@@ -61,11 +62,9 @@ An AI BI workbench: connect SQLite / CSV / PostgreSQL / MySQL, ask in natural la
 
 Evolved from a single RBAC auth module into a small microservice system: Eureka discovery + Config + Gateway (PEP + hand-rolled zero-dependency JWT) + auth / rbac services, extended with CRM, audit and a BFF layer into a reusable enterprise backend skeleton.
 
-### [ai-chat](https://github.com/erishen/ai-chat)
+### [firefly-studio](https://github.com/erishen/firefly-studio)
 
-A modern AI chat application with streaming responses, RAG document retrieval, Markdown rendering, theme switching, and practical conversation workflows.
-
-Demo: https://chat.erishen.cn
+A debuggable C++ Electron digital human workbench — porting the firefly 3D virtual human (React + three.js / R3F) to Electron, with the main process loading C++ native modules via node-addon-api: audio energy / VAD / microphone capture / ASR / TTS wrappers. Integrates Whisper.cpp local offline speech recognition, Piper local speech synthesis, RNNoise noise suppression, and music playback; supports setting breakpoints and debugging C++ directly in VSCode (Node debug main process + lldb attach).
 
 ---
 

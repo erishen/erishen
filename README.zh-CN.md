@@ -27,6 +27,7 @@ AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地�
 ![](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
@@ -61,11 +62,9 @@ AI BI 工作台：连接 SQLite / CSV / PostgreSQL / MySQL，自然语言提问�
 
 从单一 RBAC 鉴权模块演化为小型微服务系统：Eureka 服务发现 + Config + Gateway（PEP + 自研零依赖 JWT）+ auth / rbac 服务，并扩展出 CRM、审计与 BFF 层，形成可复用的企业级后端骨架。
 
-### [ai-chat](https://github.com/erishen/ai-chat)
+### [firefly-studio](https://github.com/erishen/firefly-studio)
 
-基于 Next.js 15 的现代 AI 聊天应用，支持流式响应、RAG 文档检索、Markdown 渲染、主题切换和实用对话工作流。
-
-Demo: https://chat.erishen.cn
+可调试的 C++ Electron 数字人工坊——把 firefly 3D 数字人（React + three.js / R3F）移植到 Electron，主进程通过 node-addon-api 加载 C++ 原生模块：音频能量 / VAD / 麦克风采集 / ASR / TTS 封装。集成 Whisper.cpp 本地离线语音识别、Piper 本地语音合成、RNNoise 降噪与音乐播放；支持在 VSCode 中直接打断点调试 C++（Node 调试主进程 + lldb attach）。
 
 ---
 
