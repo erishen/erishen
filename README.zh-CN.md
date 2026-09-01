@@ -6,7 +6,7 @@
 
 AI 工程化 / 平台工程 / 资深全栈工程师，关注如何把 AI 落地到真实工程流程。
 
-目前在 PayPal 做金融科技工程，用 React / Next.js / Node.js 构建面向客户的系统。近期关注 AI 辅助工程化、系统安全加固和大版本框架升级。
+曾在 PayPal 做金融科技工程，用 React / Next.js / Node.js 构建面向客户的系统。近期关注 AI 辅助工程化、系统安全加固和大版本框架升级。
 
 我关心的是可运行、可复现、可测试、可解释的工程系统，而非一次性 AI Demo。
 
@@ -98,7 +98,7 @@ React、Next.js、TypeScript、Node.js、Python、FastAPI、Redis、GraphQL、RE
 
 ## 工作经历
 
-- **PayPal** — 资深全栈工程师（2024 – 至今）  
+- **PayPal** — 资深全栈工程师（2024 – 2026）  
   面向客户的金融科技系统、身份验证、AI 辅助工程化、React/Next.js/Node.js 全栈开发
 - **携程 / Trip.com Group** — 资深前端工程师（2017 – 2024）  
   国际内容平台、Node.js SSR、SEO、多语言内容、前端工程演进

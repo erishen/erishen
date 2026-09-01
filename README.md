@@ -6,7 +6,7 @@
 
 AI engineering / platform engineering / senior full-stack engineer focused on landing AI in real engineering workflows.
 
-I currently work on FinTech engineering at PayPal, building customer-facing systems with React, Next.js, and Node.js. Recent focus areas include AI-assisted engineering workflows, system security hardening, and large-scale framework upgrades.
+Previously built customer-facing FinTech systems at PayPal with React, Next.js, and Node.js. Recent focus areas include AI-assisted engineering workflows, system security hardening, and large-scale framework upgrades.
 
 I care less about one-off AI demos and more about systems that are runnable, reproducible, testable, and explainable.
 
@@ -98,7 +98,7 @@ Customer-facing systems, identity verification, compliance workflows, secure ful
 
 ## Background
 
-- **PayPal** — Senior Full-Stack Engineer (2024 – Present)  
+- **PayPal** — Senior Full-Stack Engineer (2024 – 2026)  
   Customer-facing FinTech systems, identity verification, AI-assisted engineering workflows, full-stack development with React/Next.js/Node.js
 - **Trip.com Group** — Senior Frontend Engineer (2017 – 2024)  
   International content platforms, Node.js SSR, SEO, multilingual content, frontend engineering evolution
