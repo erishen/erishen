@@ -73,10 +73,10 @@ AI BI 工作台：连接 SQLite / CSV / PostgreSQL / MySQL，自然语言提问�
 我在博客 **[erishen.cn](https://erishen.cn)** 上写 AI 工程化、Agent 框架与全栈实践。
 
 - [resolve-studio：Cordis 插件化 Agent 运行时](https://erishen.cn/resolve_studio/) — 用 DI 容器把 LLM 后端、工具、审批流全部变成配置。
-- [firefly-studio：C++ Electron 3D 数字人工坊](https://erishen.cn/firefly_studio/) — 把 3D 数字人移植到 Electron，集成 Whisper.cpp 本地 ASR、Piper TTS 与 node-addon-api C++ 原生模块。
 - [rag-task-service：一个 Rust RAG 服务的七层设计](https://erishen.cn/rag_task_service/) — 从 SQLite 到 LLM 重排的异步 RAG 文档管线架构。
 - [datapulse：Text2SQL 确定性管线 + ReAct 双路径](https://erishen.cn/datapulse/) — AI BI 工作台的架构解析。
 - [spring-rbac：从 RBAC 鉴权长成的小微服务系统](https://erishen.cn/spring_rbac/) — Spring Cloud + 零依赖 JWT + CRM + 审计 + BFF。
+- [firefly-studio：C++ Electron 3D 数字人工坊](https://erishen.cn/firefly_studio/) — 把 3D 数字人移植到 Electron，集成 Whisper.cpp 本地 ASR、Piper TTS 与 node-addon-api C++ 原生模块。
 
 ---
 

@@ -73,10 +73,10 @@ A debuggable C++ Electron digital human workbench — porting the firefly 3D vir
 I write about AI engineering, agent frameworks, and full-stack practice on my blog: **[erishen.cn](https://erishen.cn)**.
 
 - [resolve-studio: Cordis Plugin-Based Agent Runtime](https://erishen.cn/resolve_studio-en/) — Turning LLM backend, tools, and approval flows into config via DI container.
-- [firefly-studio: C++ Electron 3D Digital Human Workbench](https://erishen.cn/firefly_studio-en/) — Porting 3D digital human to Electron with Whisper.cpp local ASR, Piper TTS and node-addon-api C++ native modules.
 - [rag-task-service: A Seven-Layer Design for a Rust RAG Service](https://erishen.cn/rag_task_service-en/) — An async RAG document pipeline from SQLite to LLM re-ranking.
 - [datapulse: Deterministic Text2SQL Pipeline + ReAct Dual-Path](https://erishen.cn/datapulse-en/) — Architecture breakdown of the AI BI workbench.
 - [spring-rbac: From RBAC Auth to a Small Microservice System](https://erishen.cn/spring_rbac-en/) — Spring Cloud + zero-dependency JWT + CRM + audit + BFF.
+- [firefly-studio: C++ Electron 3D Digital Human Workbench](https://erishen.cn/firefly_studio-en/) — Porting 3D digital human to Electron with Whisper.cpp local ASR, Piper TTS and node-addon-api C++ native modules.
 
 ---
 
