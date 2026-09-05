@@ -113,3 +113,4 @@ React、Next.js、TypeScript、Node.js、Python、FastAPI、Redis、GraphQL、RE
 - 网站: https://erishen.cn
 - GitHub: https://github.com/erishen
 - 邮箱: erishen@qq.com
+- 爱发电: https://afdian.com/a/erishen

@@ -113,3 +113,4 @@ Customer-facing systems, identity verification, compliance workflows, secure ful
 - Website: https://erishen.cn
 - GitHub: https://github.com/erishen
 - Email: erishen@qq.com
+- Afdian: https://afdian.com/a/erishen
